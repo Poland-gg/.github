@@ -1,5 +1,3 @@
-Here's a GitHub organization README for Poland.gg:
-
 Hi there 👋
 We're building Poland.gg — a lightning-fast statistics platform that makes Polish data instantly accessible to everyone.
 🙋‍♀️ What we do
